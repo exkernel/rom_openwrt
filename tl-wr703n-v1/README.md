@@ -1,7 +1,8 @@
 ## TP-LINK TL-WR703N v1 (SoC: Atheros AR9330 rev 1)
 ### OpenWrt Attitude Adjustment 12.09.1 (Kernel: 3.3.8)
 
-#### IPv4/IPv6 + Inode(SYSU-East H3C) + Cross the GFW(Shadowocks)
+##### IPv4/IPv6 + Inode(SYSU-East H3C) + Cross the GFW(Shadowocks)
+#####Last updated: February 29, 2016
 
 + https://github.com/zonyitoo/sysuh3c/
 + https://github.com/shadowsocks/openwrt-shadowsocks
