@@ -3,7 +3,7 @@
 
 ##### IPv4/IPv6 + Inode(SYSU-East H3C) + Cross the GFW(Shadowocks)
 
-Last updated: February 29, 2016
+Last updated: April 3, 2016
 
 + https://github.com/zonyitoo/sysuh3c/
 + https://github.com/shadowsocks/openwrt-shadowsocks
